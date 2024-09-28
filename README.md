@@ -13,3 +13,6 @@ Faster Movement: Shiftkey
 Shoot: Space
 
 Interact: E
+
+# Video Showcase
+Link: https://youtu.be/dgdYHMchGb4
