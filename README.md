@@ -7,6 +7,9 @@ The game is made in Unity written in C#. All the Assets in the game excluding so
 
 # Controls
 Movements: AWSD
+
 Faster Movement: Shiftkey
+
 Shoot: Space
+
 Interact: E
